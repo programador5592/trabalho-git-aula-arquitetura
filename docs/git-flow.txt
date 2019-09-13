@@ -1,0 +1,7 @@
+Vantagens de usar o GITHUB
+
+1- Gratuito;
+2- Pode ser utilizado como material de estudo com base em outros repositorios;
+3- Comandos para utilização do GITBASH disponiveis no GITHUB;
+4- Projetos com proteção;
+5- Pode ser utilizado em grandes projetos onde há varios desenvolvedores.
